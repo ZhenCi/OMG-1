@@ -25,7 +25,7 @@ Terminologies & Abbreviations Explaination
 Terminologies
 -------------
 ================================  ==================================================================
-  Term                                                       Definition
+    terminology                                                     Definition
 ================================  ==================================================================
 Control sample                    A cell samples prepared under normal conditions
 Treatment sample                  A cell samples treated with specific chemicals, or cells whose genes have been altered.
