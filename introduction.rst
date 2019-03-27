@@ -23,7 +23,7 @@ Terminologies & Abbreviations Explaination
     For the purpose of detailing the project and specifying the requirements, this section aims to explain a number of terms and abbreviations in order to better understand the content of the project.
 
 Terminologies
-~~~~~~~~~~~~~
+-------------
 ================================  ==================================================================
   Term                                                       Definition
 ================================  ==================================================================
@@ -31,7 +31,7 @@ Control sample                    A cell samples prepared under normal condition
 Treatment sample                  A cell samples treated with specific chemicals, or cells whose genes have been altered.
 Up-regulation                     A gene is said to be up-regulated if it has higher expression in treatment than in control.
 Differentially expressed genes    The genes which have significantly different expression levels between two samples. 
-
+================================  ==================================================================
 Abbreviations
 ~~~~~~~~~~~~~
     
