@@ -15,10 +15,12 @@ Aesthetic Aspects
 Confidentiality Policy
 ----------------------
    As a biologist studying the network of gene expression, protecting the safety of genetic information is very important for us. The methods for protecting data are as follows:
-    1.Authentication and password management
-    2.Authentication and role management
-    3.Audit records
-    4.Analysis of third-party components
-    5.Validation and cleansing of input data
-    6.Encryption and key management
-    7.Source control
+    ============================================
+    Authentication and password management
+    Authentication and role management
+    Audit records
+    Analysis of third-party components
+    Validation and cleansing of input data
+    Encryption and key management
+    Source control
+    ============================================
