@@ -25,12 +25,12 @@ Input
     ===========  =================  =================
 
 
-Output(Data Analyzing)
+Output
 ----------------------
     The web application displays a **table** and a **scatter plot** when given a gene expression file.
 
 
-Table Analyzing
+Analyzing
 ~~~~~~~~~~~~~~~
     Web applications show a table and a scatter diagram giving a gene expression file. The table contains a list of differential expression genes in the following format:
 
