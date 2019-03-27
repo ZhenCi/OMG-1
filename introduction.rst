@@ -24,10 +24,13 @@ Terminologies & Abbreviations Explaination
 
 Terminologies
 ~~~~~~~~~~~~~
-    *   *Control sample* - A cell sample prepared in its normal condition.
-    *   *Treatment sample* - A cell sample treated by special chemicals, or in which some genes are altered.
-    *   *Differentially expressed genes* - The genes which have significantly different expression levels between two samples.
-    *   *Up-regulation* - A gene is said to be up-regulated if it has higher expression in treatment than in control.
+================================  ==================================================================
+  Term                                                       Definition
+================================  ==================================================================
+Control sample                    A cell samples prepared under normal conditions
+Treatment sample                  A cell samples treated with specific chemicals, or cells whose genes have been altered.
+Up-regulation                     A gene is said to be up-regulated if it has higher expression in treatment than in control.
+Differentially expressed genes    The genes which have significantly different expression levels between two samples. 
 
 Abbreviations
 ~~~~~~~~~~~~~
